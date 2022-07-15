@@ -1,4 +1,6 @@
-<img src="./header.png" />
+![header](header.png)
+![snake](snake.svg)
+
 
 ![](https://komarev.com/ghpvc/?username=mkchahal&style=for-the-badge&color=be54f6)
 
