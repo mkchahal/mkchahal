@@ -1,6 +1,6 @@
 <img src="./header.png" />
 
-[![](https://visitcount.itsvg.in/api?id=mkchahal&icon=5&color=11)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=mkchahal&style=for-the-badge&color=be54f6)
 
 -----
 
