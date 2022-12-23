@@ -6,7 +6,7 @@
 <a href="mailto:mandeep.windsor@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/mkchahal" target="_blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-![snake](https://user-images.githubusercontent.com/99150991/192083182-d56b7fcb-f70d-4900-9bff-840b0732cd17.svg)
+![Snake animation](https://github.com/mkchahal/mkchahal/blob/output/github-contribution-grid-snake.svg)
 
 
 ![](https://komarev.com/ghpvc/?username=mkchahal&style=for-the-badge&color=be54f6)
